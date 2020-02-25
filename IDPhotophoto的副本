@@ -1,6 +1,6 @@
 {
 "success": true,
-"codes": "200",
+"code": 200,
 "message": "",
 "data": {
 "data": [
@@ -186,6 +186,6 @@
 }
 ]
 },
-"code": 200,
+"codes": "200",
 "obj": null
 }
